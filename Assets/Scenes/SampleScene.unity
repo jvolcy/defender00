@@ -359,7 +359,7 @@ MonoBehaviour:
   MinHSpeed: 0
   MaxHSpeed: 10
   HDrag: 0.999
-  VDragCoef: 0.02
+  VDragCoef: 0.03
   SpeedText: {fileID: 1618984474}
 --- !u!1 &519420028
 GameObject:
